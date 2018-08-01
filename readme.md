@@ -1,5 +1,5 @@
 #环境
--   windows
+-   windows 10 pro
 -   anaconda
 -   pycharm
 -   python3.6.5
@@ -16,7 +16,9 @@
         -   一个进程多个线程共享数据和运行环境
         -   共享互斥问题
  
- -  全局解释器锁
+-  全局解释器锁
         -   python代码执行是有python虚拟机进行控制
         -   主循环中只有一个控制线程在执行
-        
+ 
+-   python 包
+        -   
